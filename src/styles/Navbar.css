@@ -1,0 +1,22 @@
+.navbar {
+  height: 10%;
+  width: "full";
+  display: flex;
+  align-items: center;
+}
+.navbar span {
+  padding-left: 5%;
+  width: 10%;
+}
+.navbar ul {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  list-style-type: none;
+}
+.navbar ul li {
+  padding-right: 5%;
+}
+
+/*# sourceMappingURL=Navbar.css.map */
